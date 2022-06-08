@@ -1,0 +1,10 @@
+[5, 6, 7, 8, 9]
+Contiguous
+root
+root/folder1
+root/folder1/file1.txt 0
+root/folder1/file2.txt 1
+root/folder1/hello.txt 4
+root/folder2
+root/folder2/file3.txt 2
+root/folder2/file4.txt 3
